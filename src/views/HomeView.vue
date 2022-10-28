@@ -14,9 +14,10 @@
                           style="background: linear-gradient(rgb(17, 144, 203),rgb(124, 121, 121));
                                 height:100%;
                                 border-style: none;
-                                padding-top: 1%;
+                                padding-top: 2vw;
                                 display:flex;
                                 flex-direction:row;
+                                
                                 
                           "
                           >
@@ -107,11 +108,67 @@
         </div>
       </div>
 
-  </div>
-   
-  <div class="bottom">
+
+    <div class="lab_hardware_container">
+      <div class="info_cricle info_cricle_index_1 ">
+
+      </div>
+
+      <div class="info_cricle info_cricle_index_2 ">
+        
+      </div>
+
+      <div class="info_cricle info_cricle_index_3 ">
+        
+      </div>
+
+      <div class="bottom_rec">
+        
+      </div>
+    </div>
+
+    <div class="lab_since_reserch_container">
+      <div class="title_container">
+        <p>科学研究</p>
+      </div>
+
+      <div class="info_reserch_container">
+        <div class="info_reserch info_reserch_index_1">
+          <div class="info_left">
+            
+          </div>
+          <div class="info_right">
+              <p class="tittle">超高性能、高精度算法研究平台</p>
+              <p class="info">实验室为了提高效率，配置强劲的硬件，几十台高配置服务器组成的集群提供了强大的运算处理能力。</p>
+          </div>
+        </div>
+        <div class="info_reserch info_reserch_index_2">
+          
+        </div>
+        <div class="info_reserch info_reserch_index_3">
+          
+        </div>   
+        <div class="info_reserch info_reserch_index_4">
+          <div class="info_left">
+            
+          </div>
+
+          <div class="info_right">
+            
+          </div>
+        </div>
+         
+      </div>
+
+    </div>
+
+  <div class="more_info_container">
     
   </div>
+
+  </div>
+   
+
 
   </div>
 
